@@ -63,9 +63,10 @@ class Profile():
 ### 🖋️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
+
 ### 🎁 Support My Work
 If you find my work helpful or useful, consider buying me a coffee! Any support is greatly appreciated and will be used to continue producing great content.
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/www.buymeacoffee.com/alefrpereira)
 
 ### 🕹️ GitHub Contributions Snake Game
-![github contribution grid snake animation](https://raw.githubusercontent.com/AlefRP/<repository>/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/AlefRP/AlefRP/output/github-contribution-grid-snake.svg)
