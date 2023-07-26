@@ -1,0 +1,23 @@
+name: Generate Datas
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@master
+        with:
+          github_user_name: AlefRP
+          svg_out_path: dist/github-contribution-grid-snake.svg
+      - name: Commit and push if changed
+        run: |-
+          git add dist
+          git diff
+          git config --global user.email "alefrodrigopereira@yahoo.com.br"
+          git config --global user.name "Alef R. Pereira"
+          git commit -am "Updated the Graph" && echo "Pushing..." && git push
