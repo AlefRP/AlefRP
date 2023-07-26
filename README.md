@@ -56,16 +56,18 @@ class Profile():
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 
 ## 📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlefRP&theme=default&hide_border=false&include_all_commits=true&count_private=true&height=180em)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlefRP&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&height=180em)
+<div align="center">
+  <a href="https://github.com/AlefRP">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlefRP&show_icons=true&theme=default&include_all_commits=true&count_private=true" style="width: 45%;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefRP&layout=compact&langs_count=7&theme=default" style="width: 45%;" />
+</div>
 
 ### 🖋️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<div align="center" style="margin-bottom:5em;">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</div>
 
 ### 🎁 Support My Work
 If you find my work helpful or useful, consider buying me a coffee! Any support is greatly appreciated and will be used to continue producing great content.
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/www.buymeacoffee.com/alefrpereira)
-
-### 🕹️ GitHub Contributions Snake Game
-![github contribution grid snake animation](https://raw.githubusercontent.com/AlefRP/AlefRP/output/github-contribution-grid-snake.svg)
