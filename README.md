@@ -56,8 +56,8 @@ class Profile():
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 
 ## 📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlefRP&theme=default&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlefRP&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AlefRP&theme=default&hide_border=false&include_all_commits=true&count_private=true&height=180em)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlefRP&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&height=180em)
 
 ### 🖋️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
