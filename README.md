@@ -2,6 +2,33 @@
 
 ## 🚀 About Me:
 I'm a passionate data analyst from Brazil. Currently working at Memory as a Data Analyst since May 2023.
+```python
+class Profile():
+    
+  def __init__(self):
+    self.name = "Alef R. Pereira",
+    self.username = "AlefRP",
+    self.company = "Memory"
+    self.job = "Data Analytics",
+    self.start = "05-2023",
+    self.end = "Now"
+  
+  def myname(self):
+    return self.name
+
+  def myusername(self):
+    return self.username
+
+  def mycompany(self):
+    return self.company
+
+  def myjob(self):
+    return self.job
+  
+  def myperiod(self):
+    return self.start & " - " & self.end
+
+```
 
 ## 🌍 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alefrpereira) 
@@ -36,8 +63,9 @@ I'm a passionate data analyst from Brazil. Currently working at Memory as a Data
 ### 🖋️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-
 ### 🎁 Support My Work
 If you find my work helpful or useful, consider buying me a coffee! Any support is greatly appreciated and will be used to continue producing great content.
-
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/www.buymeacoffee.com/alefrpereira)
+
+### 🕹️ GitHub Contributions Snake Game
+![github contribution grid snake animation](https://raw.githubusercontent.com/AlefRP/<repository>/output/github-contribution-grid-snake.svg)
