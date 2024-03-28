@@ -3,7 +3,7 @@
 ## 🚀 About Me:
 I'm a passionate data analyst from Brazil. Currently working at Memory as a Data Analyst since May 2023.
 ```python
-class Profile():
+class Profile:
     
   def __init__(self):
     self.name = "Alef R. Pereira",
