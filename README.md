@@ -1,7 +1,7 @@
 # 🙋‍♂️ Hi, I'm Alef R. Pereira
 
 ## 🚀 About Me:
-I'm a passionate data analyst from Brazil. Currently working at Memory as a Data Analyst since May 2023.
+I'm a passionate Data Analyst from Brazil. Currently working at Memory since May 2023.
 ```python
 class Profile:
     
