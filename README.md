@@ -50,6 +50,7 @@ class Profile:
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=flat&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-%23FF694B.svg?style=flat&logo=dbt&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=flat&logo=apache-spark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=flat&logo=databricks&logoColor=white)
 
