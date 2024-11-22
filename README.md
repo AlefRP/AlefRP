@@ -62,14 +62,7 @@ class Profile:
 ![Firebird](https://img.shields.io/badge/Firebird-%23EE4000.svg?style=flat&logo=firebird&logoColor=white)
 
 ## 📈 GitHub Stats:
-<div align="center">
-  <a href="https://github.com/AlefRP">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=AlefRP&show_icons=true&theme=default&include_all_commits=true&count_private=true&v=1" alt="AlefRP's GitHub stats"/>
-  </a>
-  <a href="https://github.com/AlefRP">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefRP&layout=compact&langs_count=7&theme=default" alt="Top Languages"/>
-  </a>
-</div>
+![AlefRP's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlefRP&count_private=true&theme=default)
 
 ### 🖋️ Random Dev Quote
 <div align="center" style="margin-bottom:5em;">
