@@ -1,16 +1,16 @@
 # 🙋‍♂️ Hi, I'm Alef R. Pereira
 
 ## 🚀 About Me:
-I'm a passionate Data Analyst from Brazil. Currently working at Memory since May 2023.
+I'm a passionate Data Engineer from Brazil. Currently working at Math Group since February 2025.
 ```python
 class Profile:
     
   def __init__(self):
     self.name = "Alef R. Pereira",
     self.username = "AlefRP",
-    self.company = "Memory"
-    self.job = "Data Analytics",
-    self.start = "05-2023",
+    self.company = "Math Group"
+    self.job = "Data Engineer",
+    self.start = "02-2025",
     self.end = "Now"
   
   def myname(self):
